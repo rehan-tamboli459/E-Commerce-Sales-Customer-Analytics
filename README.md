@@ -4,7 +4,7 @@ An interactive **Power BI dashboard** built to analyze e-commerce sales performa
 
 ## Dashboard Preview
 
-![E-Commerce Sales & Customer Analytics Dashboard](screenshots/dashboard.png)
+![E-Commerce Sales & Customer Analytics Dashboard](screenshot/dashboard.png)
 
 ## Project Overview
 
